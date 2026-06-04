@@ -15,7 +15,7 @@
 * **Project Title:** BoomPlay Store - Premium Audio & Headphone E-Shop
 * **Platform Used:** Wix
 * **Live Website Link:** https://idukunda02.wixsite.com/boomp-23812-2024
-* **GitHub Repository Link:** README.md
+* **GitHub Repository Link:** https://github.com/YN-web/BoomPlay-Store-1886.git
 
 ### Description
 BoomPlay Store is an elegant, modern e-commerce platform built using low-code/no-code technology. It is specifically designed to showcase and retail premium audio gear, including high-fidelity wireless headphones and comfort-fit earbuds, providing an intuitive consumer shopping experience.
