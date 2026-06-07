@@ -38,7 +38,7 @@ BoomPlay Store is an elegant, modern e-commerce platform built using low-code/no
 ![Homepage](images/Homepage.png)
 
 ### 2. Product Catalog Page
-![Product Page](images/products.png)
+![Product Page](images/Products.png)
 
 ### 3. Contact View
 ![Contact](images/Contact.png)
