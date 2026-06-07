@@ -35,13 +35,20 @@ BoomPlay Store is an elegant, modern e-commerce platform built using low-code/no
 ## 📸 Interface Screenshots
 
 ### 1. Homepage
-![Homepage](images/homepage.png)
+---
+
+## 📸 Interface Screenshots
+
+### 1. Homepage
+<img width="1809" height="953" alt="Homepage" src="https://github.com/user-attachments/assets/7e642c7c-ba7c-4b02-9e27-c32fad57ebd3" />
 
 ### 2. Product Catalog Page
-![Product Page](images/products.png)
+<img width="1858" height="872" alt="Product Page" src="https://github.com/user-attachments/assets/8ec57d7d-4621-435b-aeaf-058e37f73845" />
 
 ### 3. Contact & Cart Interaction View
-![Contact and Cart](images/cart_contact.png)
+<img width="1884" height="871" alt="Contact and Cart" src="https://github.com/user-attachments/assets/16811dce-6cc6-43d5-a5ad-5b0c6be91a12" />
+
+---
 
 ---
 
