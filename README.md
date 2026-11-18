@@ -2,7 +2,6 @@
 
  👤 Student Information
 * **Name:** Patrick IRADUKUNDA || **23812/2024**
-* **Name:** Pacifique CYUZUZO || **24004/2024**
 * **Group:** [Day]
 * **Campus:** Kigali Campus
 * **Institution:** University of Lay Adventists of Kigali (UNILAK)
